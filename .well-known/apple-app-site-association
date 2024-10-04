@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["54W23ZZ339.jp.co.primagest.pinputScanner"],
+        "components": [
+          {
+            "/": "/PinputScan/*",
+            "comment": "App Clipが起動するパスの指定"
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["54W23ZZ339.jp.co.primagest.pinputScanner.Clip"]
+  }
+}
